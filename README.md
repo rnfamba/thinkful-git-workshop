@@ -35,8 +35,5 @@ ___
 [Huy Do](https://github.com/HuydDo)<br/>
 [Corey Stary](https://github.com/coreystary)<br/>
 [Joshua Sorkin](https://github.com/joshuasorkin)<br/>
-
+[rita, nfamba](https://github.com/rnfamba)
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
-add a smiley face
-smiling face :)
-First time leaner - developer

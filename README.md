@@ -37,3 +37,6 @@ ___
 [Joshua Sorkin](https://github.com/joshuasorkin)<br/>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
+add a smiley face
+smiling face :)
+First time leaner - developer
